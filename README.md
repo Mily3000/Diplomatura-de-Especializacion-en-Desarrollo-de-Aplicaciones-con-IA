@@ -6,4 +6,4 @@ Clases de los cursos de la diplomatura de especialización en desarrollo de apli
 
 ### Tensorflow
 
-conda create --name tf_gpu tensorflow-gpu
+conda create --name tf_gpu tensorflow-gpu pandas python-graphviz matplotlib scikit-learn seaborn
